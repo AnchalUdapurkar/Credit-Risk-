@@ -1,1 +1,2 @@
-# Credit-Risk-
+# Credit-Risk-Analisys-Project
+This Project refers the process of a lender determining if a borrower's loan application is an acceptable risk. Based on the analysis of the credit, capacity, and collateral of the customer, i have predicted whether a particular customer could be sanctioned a Loan or not and Successfully provided comprehensive hands-on experience in managing and analyzing messy datasets. The project encompassed various critical stages, including data cleaning, exploratory data analysis (EDA), outlier detection and removal, manual data splitting, and model training.
